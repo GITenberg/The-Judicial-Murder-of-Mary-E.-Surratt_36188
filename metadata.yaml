@@ -1,0 +1,31 @@
+_repo: The-Judicial-Murder-of-Mary-E.-Surratt_36188
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 36188-h/images/cover.jpg
+creator:
+  author:
+    agent_name: DeWitt, David Miller
+    birthdate: 1837
+    deathdate: 1912
+    gutenberg_agent_id: '38125'
+    url: http://www.gutenberg.org/2009/agents/38125
+description: ''
+gutenberg_issued: '2011-05-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36188'
+  lccn: '12002584'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'KF'
+- !lcsh 'Lincoln, Abraham, 1809-1865 -- Assassination'
+- !lcsh 'Judicial error -- United States'
+- !lcsh 'Trials (Assassination) -- Washington (D.C.)'
+- !lcc 'E456'
+- !lcsh 'Surratt, Mary E. (Mary Eugenia), 1820-1865 -- Trials, litigation, etc.'
+title: The Judicial Murder of Mary E. Surratt
+url: http://www.gutenberg.org/ebooks/36188
